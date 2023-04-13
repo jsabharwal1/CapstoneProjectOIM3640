@@ -1,7 +1,10 @@
 # CapstoneProjectOIM3640
 I am doing this project alone - Jai
+<br>
 **The Big Idea: What is the main idea of your project? What topics will you explore and what will you accomplish? Describe your minimum viable product (MVP) and your stretch goal.**
+<br>
 ## The main idea of my project is to create an algorithmic trading bot that can autonomously trade on stock exchanges. The project aims to explore topics like financial data analysis, algorithmic trading strategies, and backtesting. The minimum viable product (MVP) for this project could be a basic bot that can access stock market data, analyze it, and make trading decisions based on a pre-defined set of rules. The stretch goal is to implement a trading model that can use historical data and change its trading strategies based on historical data. 
+<br>
 **Learning Objectives: Since this is a team project, you may want to articulate both shared and individual learning goals.**
 ## The learning objectives are developing proficiency in Python programming, data analysis, and algorithmic trading strategies. Specifically, my learning objectives are to specific areas of the project, such as developing basic expertise in machine learning or financial data analysis. I also want to learn how to 
 **Implementation Plan: This part may be somewhat ambiguous initially. You might have identified a library or a framework that you believe would be helpful for your project at this early stage. If you're uncertain about executing your project plan, provide a rough plan describing how you'll investigate this information further.**
